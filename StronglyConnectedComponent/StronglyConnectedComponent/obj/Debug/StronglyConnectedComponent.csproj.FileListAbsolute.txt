@@ -1,0 +1,7 @@
+c:\users\dima\Source\Repos\StronglyConnectedComponent\StronglyConnectedComponent\bin\Debug\StronglyConnectedComponent.exe.config
+c:\users\dima\Source\Repos\StronglyConnectedComponent\StronglyConnectedComponent\bin\Debug\StronglyConnectedComponent.exe
+c:\users\dima\Source\Repos\StronglyConnectedComponent\StronglyConnectedComponent\bin\Debug\StronglyConnectedComponent.pdb
+c:\users\dima\Source\Repos\StronglyConnectedComponent\StronglyConnectedComponent\obj\Debug\StronglyConnectedComponent.csprojResolveAssemblyReference.cache
+c:\users\dima\Source\Repos\StronglyConnectedComponent\StronglyConnectedComponent\obj\Debug\StronglyConnectedComponent.csproj.CoreCompileInputs.cache
+c:\users\dima\Source\Repos\StronglyConnectedComponent\StronglyConnectedComponent\obj\Debug\StronglyConnectedComponent.exe
+c:\users\dima\Source\Repos\StronglyConnectedComponent\StronglyConnectedComponent\obj\Debug\StronglyConnectedComponent.pdb
